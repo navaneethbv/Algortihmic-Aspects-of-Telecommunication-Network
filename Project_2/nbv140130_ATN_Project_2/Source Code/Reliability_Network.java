@@ -1,5 +1,5 @@
 public class Reliability_Network {
-	private static double sum = 0;
+	private static double sum = 0; 
 	private static double Row_Probabaility = -1;
 	private static int flip_flag = 0;
 	private static final int Count_50 = 50;
